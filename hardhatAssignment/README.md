@@ -1,13 +1,6 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Contract Address HARDHAT sepolia:  0x4FD3ABcBAaB238812e57Ddf5C272A4EF3C584A2B
 
-Try running some of the following tasks:
+contract address HARDHAT arc: 0x3F2ce112A7b87c25F608C9E47ad142B09C7fbB75
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+contract address HARDHAT lisk: 0x3F2ce112A7b87c25F608C9E47ad142B09C7fbB75
